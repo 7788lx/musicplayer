@@ -3,7 +3,7 @@ it is a very simple music player for Android system developed by AI(coursor),<br
 这是一个用AI(cursor)开发的，非常简单的安卓音乐播放器。<br>
 播放器界面：<br>
 <img src="https://github.com/user-attachments/assets/969411a4-2e7d-4134-9f35-faced774c84b" width="350">
-
+<br>
 开发故事：
 
 该APP是一个简单的本地音乐播放器，使用Android Studio和Cursor进行编码、调试、发布。
@@ -16,12 +16,12 @@ it is a very simple music player for Android system developed by AI(coursor),<br
 APP的功能：
 只要你将下载的mp3音乐文件，放到安卓系统的根目录的mp3文件夹里，
 该播放器就会自动扫描里面的音乐文件，并可以播放音乐。
-你也可以点圆圈+号，自定义文件夹；
-点击圆圈箭头符号，刷新文件夹里的音乐，用于你下载新歌后，将新音乐更新到播放器；
-点击圆点，可以定位到你当前正在播放的音乐；
-点击向上的按钮，返回清单第一首歌；
-点击三根杠按钮，可以排序音乐。
-点击放大镜按钮，可以搜索歌曲。
+你也可以点圆圈+号，自定义文件夹；<br>
+点击圆圈箭头符号，刷新文件夹里的音乐，用于你下载新歌后，将新音乐更新到播放器；<br>
+点击圆点，可以定位到你当前正在播放的音乐；<br>
+点击向上的按钮，返回清单第一首歌；<br>
+点击三根杠按钮，可以排序音乐。<br>
+点击放大镜按钮，可以搜索歌曲。<br>
 
 目前没有实现歌词关联功能，以后有时间再用AI去实现，或者哪位帅哥美女帮忙优化和改进。
 
