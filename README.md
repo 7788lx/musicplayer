@@ -2,7 +2,7 @@
 it is a very simple music player for Android system developed by AI(coursor),<br>
 这是一个用AI(cursor)开发的，非常简单的安卓音乐播放器。<br>
 播放器界面：<br>
-<img src="https://github.com/user-attachments/assets/7d9f9282-2fd1-4ccd-b692-010826a737ea" width="350">
+<img src="https://github.com/user-attachments/assets/969411a4-2e7d-4134-9f35-faced774c84b" width="350">
 
 开发故事：
 
@@ -51,6 +51,7 @@ There was an error creating your Release: tag name can't be blank, tag name is n
 我的email是：2073874@qq.com<br>
 微信号是：xm7788lx<br>
 欢迎交流。<br>
+
 
 
 
