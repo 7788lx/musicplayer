@@ -39,9 +39,9 @@ APP的功能：
 
 感谢AI，感谢AI研发工程师，把程序员从繁重的编码和调试的工作中解放啦！
 
-下载使用：
-我把apk文件上传到code里了，路径如下，大家可以直接下载使用：
-/app/build/outputs/apk/debug/app-debug.apk
+下载使用：<br>
+我把apk文件上传到code里了，路径如下，大家可以直接下载使用：<br>
+/app/release/app-debug.apk
 
 我在使用github发布apk的时候遇到如下问题：<br>
 刚用github的release发布半天发布不了，一直提示<br>
